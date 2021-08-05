@@ -1,0 +1,23 @@
+{
+  "name": "viz",
+  "version": "1.0.0",
+  "description": "voxel vizualizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kuberlog/viz.git"
+  },
+  "keywords": [
+    "voxel",
+    "visualizer"
+  ],
+  "author": "kuberlog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuberlog/viz/issues"
+  },
+  "homepage": "https://github.com/kuberlog/viz#readme"
+}
